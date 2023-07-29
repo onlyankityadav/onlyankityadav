@@ -13,7 +13,7 @@
 - 💬 Ask me about Data ...
 - 📫 How to reach me **onlyankityadav00@gmail.com**
 <div align="center">
-  <img src="https://media.giphy.com/media/GrRgIa839nAwRa2qKW/giphy.gif" width=100% height=100%/>
+  <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width=100% height=100%/>
 
 
 ## 🌐 Socials:
